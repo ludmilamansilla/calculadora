@@ -1,6 +1,6 @@
-## #** ¡Mis primeros pasos en la programación! **
+## ¡Mis primeros pasos en la programación! 
 
-*E*n el inicio de mi aprendizaje,  nuestra primer tarea luego de una introduccion, fue crear una calculadora usando VS con *JavaScrip*.
+En el inicio de mi aprendizaje,  nuestra primer tarea luego de una introduccion, fue crear una calculadora usando VS con *JavaScrip*.
 Siempre tuve muchas expectativas y pensaba que en unas pocas semanas de conocimiento iba a poder programar cosas muy grandes...
 
 Lo que me imaginaba que iba a hacer:
